@@ -5,7 +5,7 @@
 # image view
 
 <p align="center" ><img src="images/stylus-cheatsheet-latest-1.png"></p>
-<p align="center" ><img src="images/stylus-cheatsheet-latest.png"></p>
+<p align="center" ><img src="https://github.com/code4mk/stylus-cheatsheet/blob/master/images/stylus-cheatsheet-latest-2.png"></p>
 
 
 ---
